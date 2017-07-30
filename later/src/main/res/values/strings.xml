@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Later!</string>
+    <string name="label_created_by">Created by\u0020</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+</resources>
